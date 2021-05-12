@@ -9,5 +9,6 @@ This chat app is bidirectional.
 
 In this chatapp I have used the concept of network programming (socket, data packet transmission in bytes) and threads for managing efficiency.
 
-Author: Harsh Aryan
-Python version: Python3
+Author: Harsh Aryan<br>
+Python version: Python3<br>
+Contact: aryanh289@gmail.com
